@@ -1,0 +1,113 @@
+.datos{
+    font-size: 11pt;
+    font-family: Calibri;
+    color: #000000;
+    position: absolute;
+    top: 0.59in;
+    left: 6.4in;
+    width: 1.9in;
+    line-height: 0.19in;
+}
+
+.titulo {
+    text-align:center;
+    position: absolute;
+    top: 1in;
+    left: 1.12in;
+    width: 7.14in;
+    line-height: 0.45in;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15.8pt;
+    color: #419fb9;
+}
+
+
+
+.texto1{
+    text-align: justify;
+    position: absolute;
+    top: 2.41in;
+    left: 1.09in;
+    width: 7.14in;
+    line-height: 0.20in;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15pt;
+    font-family: Arial Nova Cond;
+    color: #525252;
+}
+.texto2 {
+    text-align: justify;
+    position: absolute;
+    top: 4.6in;
+    left: 1.09in;
+    width: 4.16in;
+    line-height: 0.23in;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16pt;
+    font-family: Arial Nova Cond;
+    color: #525252;
+}
+.titcol{
+    position: absolute;
+    top: 3.69in;
+    left: 1.37in;
+    width: 2.71in;
+    line-height: 0.40in;
+    font-size: 22;
+    font-family: Berlin Sans FB Demi;
+}
+.caja{
+    text-align: justify;
+    position: absolute;
+    top: 4.6in;
+    left: 5.35in;
+    width: 2.81in;
+    height: 1.56in;
+    border: 2px solid black;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13pt;
+    font-family: Calibri;   
+}
+
+.texto3{
+    text-align: right;
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16pt;
+    font-family: Arial Nova Cond;
+    color: #525252;
+    position: absolute;
+    top: 6.85in;
+    left: 1.48in;
+    width: 6.76in;
+    line-height: 0.19in;
+}
+.texto4 {
+    position: absolute;
+    top: 8in;
+    left: 1.07in;
+    width: 7.14in;
+    height: 0.23in;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16pt;
+    font-family: Arial Nova Cond;
+    color: #525252;
+}
+.texto4_1{
+    position: absolute;
+    top: 0.5in;
+    left: 1.07in;
+    width: 6.33in;
+    height: 0.22in;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16pt;
+    font-family: Arial Nova Cond;
+    color: #525252;
+}
