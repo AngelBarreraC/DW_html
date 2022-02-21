@@ -1,0 +1,17 @@
+.cam{
+    color: green;
+    background-color: silver;
+    width: 75%;
+    border: 1px solid black;
+    margin-top: 1%;
+}
+
+.item{
+    color: blue;
+    background-color: silver;
+    width: 80%;
+}
+
+h2{
+    color: brown;
+}
