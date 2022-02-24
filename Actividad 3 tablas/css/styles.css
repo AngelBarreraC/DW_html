@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    width: 700px;
+    margin-left: auto; 
+    margin-right: auto; 
+   }
+.datos{
+    text-align:right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tarea{
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tabla{
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-collapse: collapse;
+}
+caption{
+    border: 2px solid lightgrey;
+}
+th{
+    border: 2.5px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+td, tr{
+    border: 2px solid black;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.textl{
+    transform: rotate(-55deg);
+    padding-top: 30px;
+    padding-bottom: 30px;    
+}
+.a1{
+    background-color: darkgoldenrod;
+    font-style: italic;
+}
+.a2{
+    background:rgb(252, 237, 164)
+}
+.a3{
+    text-align: center;
+    color:red;
+    font-size: 110%;
+    font-weight: bold;
+}
+.a4{
+    background-color:rgb(177, 168, 168);
+}
+.a5{
+    background-color:lightgray;
+}
+.textf{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
